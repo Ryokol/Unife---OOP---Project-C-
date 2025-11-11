@@ -1,7 +1,7 @@
 
 # BENVENUTI
 
-Offro la mia repostory e un codespace per programmare insieme il progetto #0969DA**C++** e aggiornerò anche per la parte di #0969DA**JAVA** o ci provo
+Offro la mia repostory e un codespace per programmare insieme il progetto #0969DA **C++** e aggiornerò anche per la parte di #0969DA **JAVA** o ci provo
 
 ## COMANDI UTILI
 
