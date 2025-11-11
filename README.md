@@ -1,7 +1,7 @@
 
 # BENVENUTI
 
-Offro la mia repostory e un codespace per programmare insieme il progetto <ins> **C++** </ins> e aggiornerò anche per la parte di '#0969DA **JAVA**' o ci provo
+Offro la mia repostory e un codespace per programmare insieme il progetto <ins> **C++** </ins> e aggiornerò anche per la parte di <ins> **JAVA** </ins> o ci provo
 
 ## COMANDI UTILI
 
