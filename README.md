@@ -9,4 +9,5 @@ Offro la mia repostory e un codespace per programmare insieme il progetto **C++*
 - **make run** ( sostituisce ./eseguibile )
 - **make clean** ( elimina tutti i file .o creati da make - utile nel caso di una compilazione errata)
 
-> [!CAUTION] Dovete aver installato l'estensione **makefile tool**
+> [!CAUTION]
+> Dovete aver installato l'estensione **makefile tool**
