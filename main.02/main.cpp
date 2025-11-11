@@ -1,5 +1,5 @@
 // ****** Inclusione delle librerie e dei file header necessari ******
-//#include "include/Caserma.hpp" // Per la classe Caserma
+#include "include/Caserma.hpp" // Per la classe Caserma
 #include "include/Personale.hpp" // Per la classe Personale
 #include "include/Mezzo.hpp" // Per le classi MezzoBase, MezzoTerrestre, MezzoAereo
 #include "include/Risorsa.hpp" // Per CasermaException
