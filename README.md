@@ -1,5 +1,5 @@
 
-:shipit: # BENVENUTI :shipit:
+# BENVENUTI
 
 Offro la mia repostory e un codespace per programmare insieme il progetto C++ e aggiornerò anche per la parte di JAVA o ci provo
 
@@ -9,4 +9,4 @@ Offro la mia repostory e un codespace per programmare insieme il progetto C++ e 
 - make run ( sostituisce ./eseguibile )
 - make clean ( elimina tutti i file .o creati da make - utile nel caso di una compilazione errata)
 
-- 
+- :shipit:
