@@ -5,7 +5,7 @@
 #include "include/Risorsa.hpp" // Per CasermaException
 #include "include/Colori.hpp" // Per i colori ANSI
 // *******************************************************************
-//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
 // ****** Inclusione delle librerie standard ******
 #include <iostream> // Per input/output
