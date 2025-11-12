@@ -18,7 +18,6 @@ protected:
     int equipaggioMin;
     int equipaggioMax;
     int equipaggioCorrente;
-    bool Check = false;
 
 public:
     MezzoBase(int id, const std::string& tipo, int min, int max)
