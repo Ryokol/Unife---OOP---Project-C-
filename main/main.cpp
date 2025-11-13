@@ -24,9 +24,7 @@ std::shared_ptr<MezzoBase> creaMezzo(int id);
 void BarraCaricamento ();
 
 int main() {
-    int progress = 0;
-    int total_steps = 100;
-
+    
     std::cout << BOLD << RED << "\n\nAccesso al database in corso...\n" << RESET;
     BarraCaricamento ();
     std::cout << BOLD << GREEN << "\nAccesso completato!\n" << RESET << std::endl;
