@@ -20,7 +20,6 @@ private:
     std::vector<MissioneBase*> missioni; // Missioni stored by raw pointer for polymorphism
 
     // Funzioni di utilità per la ricerca
-    Personale* trovaPersonale(int id) const;
     Personale *trovaPersonale(int id);
     MezzoBase *trovaMezzo(int id) const;
 
